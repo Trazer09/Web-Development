@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#navbar{
+    background-color: red;
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    align-items: center;
+
+}
+
+#navbar img{
+    height: 80px;
+    padding-left: 20px;
+}
