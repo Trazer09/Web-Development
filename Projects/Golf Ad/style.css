@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Inter,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: white;
 }
 html, body {
     height: 100%;
@@ -10,15 +11,24 @@ html, body {
 }
 
 #navbar{
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     gap: 40px;
     padding: 40px;
     align-items: center;
+    position: fixed;
+    z-index: 99;
 
 }
 
 #navbar img{
     height: 80px;
     padding-left: 20px;
+}
+
+video{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    object-fit: cover;
 }
