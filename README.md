@@ -8,7 +8,7 @@ This repository serves as a learning platform for web development. Here, I docum
 
 ### 1. Online Courses
 
-I leverage online platforms such as Udemy, Coursera, and freeCodeCamp to access structured courses covering essential topics in web development. These courses provide comprehensive insights into frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, React, and more.
+I leverage online platforms to access structured courses covering essential topics in web development. These courses provide comprehensive insights into frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, React, and more.
 
 ### 2. Documentation and Tutorials
 
@@ -22,19 +22,6 @@ Hands-on experience is crucial for mastering web development. I actively engage 
 
 I participate in online communities, forums, and coding bootcamps to engage with fellow learners and industry professionals. Collaborative learning environments foster discussions, peer reviews, and knowledge sharing, enriching my learning experience and exposing me to diverse perspectives.
 
-## Project Structure
-
-### 1. **src** - Source Code
-   - Contains the source code of web development projects.
-   
-### 2. **docs** - Documentation
-   - Includes project documentation, notes, and resources.
-   
-### 3. **assets** - Assets
-   - Stores images, icons, and other media used in projects.
-   
-### 4. **examples** - Example Projects
-   - Houses example projects demonstrating various concepts and techniques.
 
 ## Roadmap
 
