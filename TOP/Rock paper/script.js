@@ -26,23 +26,23 @@ function playRound(playerSelection, computerSelection) {
   }
 }
 
-function playGame() {
-  let playerScore = 0;
-  let computerScore = 0;
+// function playGame() {
+//   let playerScore = 0;
+//   let computerScore = 0;
 
-  for (let round = 1; round <= 5; round++) {
-      const playerSelection = prompt(`Round ${round}: Your Choice (Rock, Paper, Scissors): `);
-      const computerSelection = getComputerChoice(["Rock", "Paper", "Scissors"]);
+//   for (let round = 1; round <= 5; round++) {
+//       const playerSelection = prompt(`Round ${round}: Your Choice (Rock, Paper, Scissors): `);
+//       const computerSelection = getComputerChoice(["Rock", "Paper", "Scissors"]);
 
-      const result = playRound(playerSelection, computerSelection);
-      console.log(result);
+//       const result = playRound(playerSelection, computerSelection);
+//       console.log(result);
 
-      if (result.includes("You Won")) {
-          playerScore++;
-      } else if (result.includes("You Lose")) {
-          computerScore++;
-      }
-  }
+//       if (result.includes("You Won")) {
+//           playerScore++;
+//       } else if (result.includes("You Lose")) {
+//           computerScore++;
+//       }
+//   }
 
 
   console.log(`\nFinal Score - Player: ${playerScore}, Computer: ${computerScore}`);
