@@ -53,7 +53,7 @@ function playRound(playerSelection, computerSelection) {
   } else {
       console.log("It's a tie! Good game!");
   }
-}
+
 
 
 playGame();

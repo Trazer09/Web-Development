@@ -16,7 +16,7 @@ html, body {
     height: 100vh;
 }
 .buttons{
-    padding: ;
+    /* padding: 50px ; */
     align-items: center;
     justify-content: center;
 }
