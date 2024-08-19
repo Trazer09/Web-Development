@@ -23,27 +23,7 @@ Hands-on experience is crucial for mastering web development. I actively engage 
 I participate in online communities, forums, and coding bootcamps to engage with fellow learners and industry professionals. Collaborative learning environments foster discussions, peer reviews, and knowledge sharing, enriching my learning experience and exposing me to diverse perspectives.
 
 
-## Roadmap
 
-### Phase 1: Fundamentals (HTML, CSS, JavaScript)
-- Master the basics of HTML, CSS, and JavaScript.
-- Learn to create responsive and visually appealing web pages.
-- Understand DOM manipulation and event handling.
-
-### Phase 2: Frontend Development (React, Vue.js)
-- Dive deeper into frontend frameworks like React and Vue.js.
-- Explore state management, component-based architecture, and routing.
-- Build interactive user interfaces and single-page applications.
-
-### Phase 3: Backend Development (Node.js, Express)
-- Gain proficiency in backend development using Node.js and Express.
-- Learn about RESTful APIs, server-side rendering, and database integration.
-- Develop server-side applications and deploy them on cloud platforms.
-
-### Phase 4: Full-Stack Development
-- Integrate frontend and backend technologies to create full-stack applications.
-- Implement authentication, authorization, and security measures.
-- Optimize performance and scalability of web applications.
 
 ## Contributions
 
